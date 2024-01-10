@@ -1,0 +1,20 @@
+/* html{
+  font-family: 'Roboto', sans-serif;
+} */
+
+h1 {
+  /* font-family: 'Roboto', sans-serif; */
+  color:red; border: dotted red; 
+}
+header p {
+  color: rgb(91, 4, 253);
+}
+div p {
+  color: darkblue ; background-color: lightgray
+}
+footer p {
+  color: darkgray; text-decoration: underline
+}
+body { font-family: Arial, Helvetica, sans-serif
+
+}
